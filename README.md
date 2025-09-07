@@ -1,5 +1,4 @@
 # ZioYou-Ontology-Digital-Twin-AI-Agent
-
 # ZioYou-Conf
 ( 2025년 9월 5일 16:00 ~ 17:00 ) (주)지오유 신달수 대표님의 발표를 기반으로 정리한 학습 기록
 <hr>
